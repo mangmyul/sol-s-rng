@@ -1,6 +1,4 @@
-# SUMMARY.md - GitBook 목차 파일
-
-# Summary
+# Table of contents
 
 * [표지](README.md)
 * [게임 소개](intro.md)
