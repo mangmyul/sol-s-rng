@@ -11,4 +11,5 @@
   - [포션](item/potion.md)
   - [기어](item/gear.md)
   - [기타 아이템](item/etc.md)
+- [바이옴](biom.md)
 - [팁](tip.md)
