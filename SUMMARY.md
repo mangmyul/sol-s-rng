@@ -7,3 +7,6 @@
 
 ## 시스템
 * [아우라](aura.md)
+* [포션](potion.md)
+* [기어](gear.md)
+* [팁](tip.md)
