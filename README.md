@@ -7,7 +7,7 @@ sol's rng 가이드에 오신 여러분을 환영합니다!
 ## 목차
 
 * [게임 소개](intro.md)
-* [아우라](undefined/undefined.md)
+* [아우라](aura.md)
 * 아이템
   * [포션](potion.md)
   * [기어](gear.md)
